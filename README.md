@@ -1,6 +1,5 @@
-# SweetAlert 2 for Meteor #
+SweetAlert 2 for Meteor
 =======
-# meteor-sweetalert
 Wrapper for SweetAlert Meteor
 original npm package: https://github.com/limonte/sweetalert2
 
